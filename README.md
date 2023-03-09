@@ -1,1 +1,2 @@
-ALX System Engineering Devops Task
+#!/bin/bash
+pwd
