@@ -1,7 +1,2 @@
 #!/bin/bash
-file='ls_cwd_content'
-if [ -f "$file"] then;
-echo ls -la > ls_cwd_content
-else
-touch ls_cwd_content
-fi
+echo ls -la >> ls_cwd_content
